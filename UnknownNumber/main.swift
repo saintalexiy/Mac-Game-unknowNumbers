@@ -25,4 +25,3 @@ repeat{
             print("Your choice is greater than the given number")
     }
         }while randomNumber != UInt8(myNumber!)
-    
